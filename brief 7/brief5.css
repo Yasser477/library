@@ -1,0 +1,59 @@
+*{
+    
+    margin-top: 0px;
+    margin-left: 0px;   
+    margin-bottom: 0;
+    
+}
+
+#background{
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+#form1{
+
+    position: absolute;
+    top: 250px;
+    left: 500px;
+
+}
+
+#iddd{
+    display: inline-block;
+}
+
+#btn{
+    margin-top: 40px;
+    position: absolute;
+    top: 350px;
+}
+
+.inputs{
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border: 0px;
+    border-radius: 15px;
+
+}
+select{
+    border : none ;
+}
+#select{
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+#iddd{
+    display: flex;
+    margin-top: 20px;
+
+}
+.bookType{
+    padding-left: 30px;
+}
+
